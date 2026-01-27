@@ -1,5 +1,18 @@
-# Python-Internship-QSkill-
-# Internship Task 1: Data Analysis using Pandas & Matplotlib
+# Python Internship – QSkill
 
-This task involves loading a CSV file, performing basic data analysis, calculating averages,
-and creating visualizations such as bar charts, scatter plots, and heatmaps.
+This repository contains the work completed during my **Python Development Internship at QSkill**.
+The internship focuses on building a strong foundation in Python, data analysis, and practical
+problem-solving through hands-on tasks.
+
+---
+
+## 🧾 Internship Details
+- **Role:** Python Development Intern  
+- **Organization:** QSkill  
+- **Mode:** Virtual  
+- **Duration:** 1 Month  
+
+---
+
+## 📂 Repository Structure
+
