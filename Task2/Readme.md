@@ -58,5 +58,4 @@ This project demonstrates the practical application of Linear Regression for hou
 
 ## 👩‍💻 Author
 Trisha Dhiman  
-*(Internship Project)*
 
