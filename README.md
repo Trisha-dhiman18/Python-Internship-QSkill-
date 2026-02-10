@@ -43,7 +43,5 @@ More details are available inside the **Task_2** folder.
   - Addition, Subtraction, Multiplication
   - Transpose and Determinant.
 
----
-
 ## Author
 **Trisha Dhiman**
