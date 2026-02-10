@@ -44,7 +44,6 @@ More details are available inside the **Task_2** folder.
   - Transpose and Determinant.
 
 ---
-Author : Trisha
 
 ## Author
 **Trisha Dhiman**
