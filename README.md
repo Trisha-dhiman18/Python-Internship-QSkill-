@@ -42,6 +42,10 @@ More details are available inside the **Task_2** folder.
 - Supported operations:
   - Addition, Subtraction, Multiplication
   - Transpose and Determinant.
-
+  - 
+### Connect 
+- Linkedin : https://www.linkedin.com/in/trisha-dhiman18/
+- Gmail : dhimantrisha1812@gmail.com
+  
 ## Author
 **Trisha Dhiman**
